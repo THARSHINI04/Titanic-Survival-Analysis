@@ -22,7 +22,7 @@ Python (Pandas), Google Colab, Power BI
 - Children aged 0-12 had the highest survival rate by age group (about 58%), and passengers over 60 had the lowest (about 23%).
 
 ## Dashboard
-![Dashboard](Screenshot 2026-11-15 204955.png)
+![Dashboard](Screenshot%202026-11-15%20204955.png)
 
 ## Files
 - `Titanic_Survival_analysis (1).ipynb`: cleaning and analysis
